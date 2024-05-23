@@ -55,3 +55,5 @@
 |53      |Gamanashrama               |Brahma|S        |R1      |G3  |M2    |P        |D2      |N3  |S     |
 |54      |Vishvāmbhari               |Brahma|S        |R1      |G3  |M2    |P        |D3      |N3  |S     |
 |55      |Shyāmalāngi                |Disi  |S        |R2      |G2  |M2    |P        |D1      |N1  |S     |
+|56      |Shanmukhapriyaa            |Disi  |S        |R2      |G2  |M2    |P        |D1      |N2  |S     |
+|57       | Simhendramadhyamam (Sumadhyuti) |Disi | S        |R2      |G2  |M2    |P        |D1      |N3  |S     |
