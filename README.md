@@ -57,3 +57,4 @@
 |55      |Shyāmalāngi                |Disi  |S        |R2      |G2  |M2    |P        |D1      |N1  |S     |
 |56      |Shanmukhapriyaa            |Disi  |S        |R2      |G2  |M2    |P        |D1      |N2  |S     |
 |57       | Simhendramadhyamam (Sumadhyuti) |Disi | S        |R2      |G2  |M2    |P        |D1      |N3  |S     |
+|58       | Hemavathi |Disi | S        |R2      |G2  |M2    |P        |D2      |N2  |S     |
