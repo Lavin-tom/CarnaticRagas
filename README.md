@@ -3,16 +3,16 @@
 |1       |Kanakāngi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G1 |R1 |S |
 |2       |Rathnāngi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G1 |R1 |S |
 |3       |Gānamoorti                 |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G1 |R1 |S |
 |4       |Vanaspati                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G1 |R1 |S |
 |5       |Mānavati                   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G1 |R1 |S |
 |6       |Tānaroopi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
-|        |                           |		|	       |  |   |   |   |   |   |   |  | 
+|        |                           |		|	       |  |   |   |   |   |   |   |  |
 |7       |Senāvati                   |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
 |8       |Hanumatodi                 |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N2 |S |
@@ -126,4 +126,30 @@
 |58      | Hemavathi                 |Disi  |Aarohanam |S |R2 |G2 |M2 |P |D2 |N2  |S  |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
 |59      | Dharmavathi               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D2 |N3 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|60      | Neethimathi               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D3 |N3 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|61      | Kānthāmani                |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N1 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|62      | Rishabhapriya             |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N2 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|63      | Lathāngi                  |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N3 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|64      | Vāchaspathi               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D2 |N2 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|65      | Mechakalyāni              |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D2 |N3 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|66      | Chitrāmbari               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D3 |N3 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|67      | Sucharitra                |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N1 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|68      | Jyothiswaroopini          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N2 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|69      | Dhātuvardhani             |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N3 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|70      | Nāsikabhooshhani          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N2 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|71      | Kosalam                   |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N3 |S |
+|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|72      | Rasikapriya               |Aaditya|Aarohanam |S  |R3 |G3  |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
