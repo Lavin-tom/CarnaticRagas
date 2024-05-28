@@ -11,20 +11,20 @@
 |5       |Mānavati                   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G1 |R1 |S |
 |6       |Tānaroopi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G1 |R1 |S |
 |        |                           |		|	       |  |   |   |   |   |   |   |  |
 |7       |Senāvati                   |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G2 |R1 |S |
 |8       |Hanumatodi                 |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G2 |R1 |S |
 |9       |Dhenuka                    |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G2 |R1 |S |
 |10      |Nātakapriya                |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R1 |S |
 |11      |Kokilapriyaa               |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G2 |R1 |S |
 |12      |Rupavati                   |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |13      |Gāyakapriya                |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
@@ -129,6 +129,7 @@
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
 |60      | Neethimathi               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|          |  |   |   |   |   |   |   |  | 
 |61      | Kānthāmani                |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
 |62      | Rishabhapriya             |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N2 |S |
@@ -141,6 +142,7 @@
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
 |66      | Chitrāmbari               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|          |  |   |   |   |   |   |   |  | 
 |67      | Sucharitra                |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
 |68      | Jyothiswaroopini          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N2 |S |
