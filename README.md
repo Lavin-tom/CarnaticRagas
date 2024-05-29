@@ -27,43 +27,43 @@
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |13      |Gāyakapriya                |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R1 |S |
 |14      |Vakulābharanam             |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R1 |S |
 |15      |Māyamālava Gowla           |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R1 |S |
 |16      |Chakravākam                |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G3 |R1 |S |
 |17      |Sooryakāntam               |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G3 |R1 |S |
 |18      |Hatakāmbari                |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  |
 |19      |Jhankāradhvani             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G2 |R2 |S |
 |20      |Natabhairavi               |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G2 |R2 |S |
 |21      |Keeravāni                  |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G2 |R2 |S |
 |22      |Kharaharapriya             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R2 |S |
 |23      |Gowri Manohari             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  |
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G2 |R2 |S |
 |24      |Varunapriyaa               |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
-|        |                           |		|          |  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R2 |S |
+|        |                           |		|          |  |   |   |   |   |   |   |  |
 |25      |Māraranjani                |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R2 |S |
 |26      |Chārukeshi                 |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R2 |S |
 |27      |Sarasāngi                  |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R2 |S |
 |28      |Harikāmbhoji               |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G3 |R2 |S |
 |29      |Dheera Shankarābharanam    |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G3 |R2 |S |
 |30      |Nāganandhini               |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |31      |Yāgapriyā                  |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
