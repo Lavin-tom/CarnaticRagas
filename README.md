@@ -66,30 +66,30 @@
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |31      |Yāgapriyā                  |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R3 |S |
 |32      |Rāgavardhani               |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R3 |S |
 |33      |Gangeyabhushani            |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R3 |S |
 |34      |Vāgadeeshwari              |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G3 |R3 |S |
 |35      |Shulini                    |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G3 |R3 |S |
 |36      |Chalanāttai                |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R3 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |37      |Sālagam                    |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G1 |R1 |S | 
 |38      |Jalārnavam                 |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G1 |R1 |S |
 |39      |Jhālavarāli                |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G1 |R1 |S |
 |40      |Navaneetham                |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G1 |R1 |S | 
 |41      |Pāvani                     |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G1 |R1 |S |
 |42      |Raghupriyaa                |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G1 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |43      |Shadvidhamārgini           |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
