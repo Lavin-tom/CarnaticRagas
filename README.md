@@ -92,30 +92,30 @@
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G1 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |43      |Shadvidhamārgini           |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G2 |R1 |S | 
 |44      |Shubhapanthuvarāli         |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G2 |R1 |S | 
 |45      |Ghavāmbhodi                |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G2 |R1 |S |
 |46      |Suvarnāngi                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G2 |R1 |S |
 |47      |Divyamani                  |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R1 |S |
 |48      |Bhavapriya                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |49      |Dhavalāmbari               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R1 |S | 
 |50      |Nāmanārāyani               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R1 |S |
 |51      |Panthuvarāli (Kāmavardhani)|Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G1 |R1 |S |
 |52      |Rāmapriyā                  |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R1 |S |
 |53      |Gamanashrama               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R1 |S |
 |54      |Vishvāmbhari               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |55      |Shyāmalāngi                |Disi  |Aarohanam |S |R2 |G2 |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
