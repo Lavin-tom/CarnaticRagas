@@ -118,17 +118,17 @@
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |55      |Shyāmalāngi                |Disi  |Aarohanam |S |R2 |G2 |M2 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G2 |R2 |S |
 |56      |Shanmukhapriyaa            |Disi  |Aarohanam |S |R2 |G2 |M2 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|  |   |   |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G2 |R2 |S |
 |57      | Simhendramadhyamam (Sumadhyuti)|Disi|Aarohanam|S |R2 |G2 |M2 |P  |D1 |N3  |S |
-|        |                           |		|Avarohanam| |  |   |   |   |   |    |   | 
-|58      | Hemavathi                 |Disi  |Aarohanam |S |R2 |G2 |M2 |P |D2 |N2  |S  |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G2 |R2 |S | 
+|58      | Hemavathi                 |Disi  |Aarohanam |S |R2 |G2 |M2 |P |D2 |N2  |S |
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G2 |R2 |S |
 |59      | Dharmavathi               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G2 |R2 |S |
 |60      | Neethimathi               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |61      | Kānthāmani                |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
