@@ -131,17 +131,17 @@
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |61      | Kānthāmani                |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R2 |S | 
 |62      | Rishabhapriya             |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R2 |S | 
 |63      | Lathāngi                  |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G3 |R2 |S |
 |64      | Vāchaspathi               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R2 |S |
 |65      | Mechakalyāni              |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R2 |S | 
 |66      | Chitrāmbari               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R2 |S | 
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |67      | Sucharitra                |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
