@@ -144,14 +144,14 @@
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R2 |S | 
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |67      | Sucharitra                |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R3 |S |
 |68      | Jyothiswaroopini          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N2 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R2 |S |
 |69      | Dhātuvardhani             |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G3 |R3 |S |
 |70      | Nāsikabhooshhani          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N2 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R3 |S |
 |71      | Kosalam                   |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R3 |S | 
 |72      | Rasikapriya               |Aaditya|Aarohanam |S  |R3 |G3  |M2 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|   |    |    |   |   |   |   |  | 
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R3 |S | 
