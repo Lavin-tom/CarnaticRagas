@@ -1,3 +1,53 @@
+# Carnatic Ragas
+
+This repository serves as a comprehensive resource for understanding Carnatic Ragas, a foundational aspect of Indian classical music. Carnatic music is deeply rooted in tradition and culture, and ragas form the backbone of its melodic structure.
+
+## What are Carnatic Ragas?
+
+In Carnatic music, a raga is a melodic framework that governs the composition and improvisation. Ragas are characterized by a unique set of ascending (aarohanam) and descending (avarohanam) notes, specific phrases, and mood. Each raga evokes a distinct emotion and has its own rules regarding the arrangement of notes, ornamentations, and usage in compositions.
+
+## Contents
+
+- [Introduction to Ragas](#introduction-to-ragas)
+- [Raga Characteristics](#raga-characteristics)
+- [#melakarta-ragas](https://github.com/Lavin-tom/Carnaticragas/edit/main/README.md#melakarta-ragas)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Contributing](#contributing)
+
+## Introduction to Ragas
+
+Understanding the basics of Carnatic Ragas is essential for appreciating the nuances of Indian classical music. This section provides an overview of ragas, their significance, and their role in Carnatic music.
+
+## Raga Characteristics
+
+Explore the fundamental elements that define a raga, including its scale, structure, melodic movements, and mood. This section delves into the intricate details that make each raga unique.
+
+## List of Ragas
+
+Browse through an extensive list of Carnatic ragas, organized alphabetically or according to their classification. Each raga entry includes information such as aarohanam, avarohanam, characteristic phrases, popular compositions, and notable recordings.
+
+## How to Use This Repository
+
+- **Browse:** Navigate through the repository to learn about different ragas and their attributes.
+- **Contribute:** Contribute additional information, corrections, or new ragas to enhance the repository's comprehensiveness.
+- **Share:** Share this resource with fellow enthusiasts, students, or musicians interested in Carnatic music.
+
+## Contributing
+
+Contributions to this repository are highly encouraged and appreciated. Whether you're a seasoned musician or a passionate learner, you can contribute by:
+
+- Adding new ragas along with their details.
+- Correcting any inaccuracies or outdated information.
+- Enhancing existing raga entries with additional insights, compositions, or recordings.
+- Improving the organization and readability of the repository.
+
+---
+
+Your feedback and suggestions for improving this repository are valuable. Feel free to open an issue or submit a pull request with your ideas and contributions.
+
+
+
+## Melakarta Ragas
 |Raga No.|Raga                       |Chakra|		   |  |   |   |   |   |    |  |  |
 |--------|---------------------------|------|----------|--|---|-- |-- |---|----|- |--|
 |1       |Kanakāngi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N1 |S |
