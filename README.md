@@ -10,7 +10,7 @@ In Carnatic music, a raga is a melodic framework that governs the composition an
 
 - [Introduction to Ragas](#introduction-to-ragas)
 - [Raga Characteristics](#raga-characteristics)
-- [#melakarta-ragas](https://github.com/Lavin-tom/Carnaticragas/edit/main/README.md#melakarta-ragas)
+- [Melakarta Ragas](#melakarta-ragas)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
 
