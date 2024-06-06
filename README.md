@@ -50,7 +50,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 ## Melakarta Ragas
 |Raga No.|Raga                       |Chakra|		   |  |   |   |   |   |    |  |  |
 |--------|---------------------------|------|----------|--|---|-- |-- |---|----|- |--|
-|1       |Kanakāngi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N1 |S |
+|1       |[Kanakāngi](ragas/Kanakāngi.md)   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G1 |R1 |S |
 |2       |Rathnāngi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G1 |R1 |S |
