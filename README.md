@@ -53,12 +53,12 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |1       |[Kanakāngi](ragas/Kanakāngi.md)   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N1 |S |
 |        |                           |	    |Avarohanam|S |N1 |D1 |P  |M1 |G1 |R1 |S |
 |2       |[Rathnāngi](ragas/Rathnāngi.md)   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N2 |S |
-|        |                           |		  |Avarohanam|S |N2 |D1 |P  |M1 |G1 |R1 |S |
+|        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G1 |R1 |S |
 |3       |[Gānamoorti](ragas/Gānamoorti.md) |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G1 |R1 |S |
 |4       |[Vanaspati](ragas/Vanaspati.md)   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N1 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G1 |R1 |S |
-|5       |Mānavati                   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N2 |S |
+|5       |[Mānavati](ragas/Mānavati.md)     |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G1 |R1 |S |
 |6       |Tānaroopi                  |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G1 |R1 |S |
