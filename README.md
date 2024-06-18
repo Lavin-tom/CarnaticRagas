@@ -60,14 +60,14 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G1 |R1 |S |
 |5       |[Mānavati](ragas/Mānavati.md)     |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G1 |R1 |S |
-|6       |[Tānaroopi](ragas/Tānaroopi.md)              |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N3 |S |
+|6       |[Tānaroopi](ragas/Tānaroopi.md)   |Indu  |Aarohanam |S |R1 |G1 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G1 |R1 |S |
 |        |                           |		|	       |  |   |   |   |   |   |   |  |
-|7       |[Senāvati](ragas/Senāvati.md)                   |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N1 |S |
+|7       |[Senāvati](ragas/Senāvati.md)     |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G2 |R1 |S |
-|8       |[Hanumatodi](ragas/Hanumatodi.md)                 |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N2 |S |
+|8       |[Hanumatodi](ragas/Hanumatodi.md) |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G2 |R1 |S |
-|9       |Dhenuka                    |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N3 |S |
+|9       |[Dhenuka](ragas/Dhenuka.md)       |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G2 |R1 |S |
 |10      |Nātakapriya                |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R1 |S |
