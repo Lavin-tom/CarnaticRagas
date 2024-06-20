@@ -71,7 +71,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G2 |R1 |S |
 |10      |[Nātakapriya](ragas/Nātakapriya.md)|Netra |Aarohanam |S |R1 |G2 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R1 |S |
-|11      |Kokilapriyaa               |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D2 |N3 |S |
+|11      |[Kokilapriyaa](ragas/Kokilapriyaa.md)|Netra |Aarohanam |S |R1 |G2 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G2 |R1 |S |
 |12      |Rupavati                   |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G2 |R1 |S |
