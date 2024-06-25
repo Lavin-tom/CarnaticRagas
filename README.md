@@ -78,7 +78,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |13      |[Gāyakapriya](ragas/Gāyakapriya.md)                |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R1 |S |
-|14      |Vakulābharanam             |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N2 |S |
+|14      |[Vakulābharanam](ragas/Vakulābharanam.md)             |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R1 |S |
 |15      |Māyamālava Gowla           |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R1 |S |
