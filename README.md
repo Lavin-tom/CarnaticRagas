@@ -76,11 +76,11 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |12      |[Rupavati](ragas/Rupavati.md)                   |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
-|13      |[Gāyakapriya](ragas/Gāyakapriya.md)                |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N1 |S |
+|13      |[Gāyakapriya](ragas/Gāyakapriya.md)|Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R1 |S |
-|14      |[Vakulābharanam](ragas/Vakulābharanam.md)             |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N2 |S |
+|14      |[Vakulābharanam](ragas/Vakulābharanam.md)|Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R1 |S |
-|15      |Māyamālava Gowla           |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N3 |S |
+|15      |[Māyamālava Gowla](ragas/Māyamālava_Gowla.md)|Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R1 |S |
 |16      |Chakravākam                |Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G3 |R1 |S |
