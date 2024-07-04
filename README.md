@@ -73,7 +73,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R1 |S |
 |11      |[Kokilapriyaa](ragas/Kokilapriyaa.md)|Netra |Aarohanam |S |R1 |G2 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G2 |R1 |S |
-|12      |[Rupavati](ragas/Rupavati.md)                   |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D3 |N3 |S |
+|12      |[Rupavati](ragas/Rupavati.md)     |Netra |Aarohanam |S |R1 |G2 |M1 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |13      |[Gāyakapriya](ragas/Gāyakapriya.md)|Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D1 |N1 |S |
@@ -89,11 +89,11 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |18      |[Hatakāmbari](ragas/Hatakāmbari.md)|Agni  |Aarohanam |S |R1 |G3 |M1 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  |
-|19      |[Jhankāradhvani](ragas/Jhankāradhvan.md)             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N1 |S |
+|19      |[Jhankāradhvani](ragas/Jhankāradhvan.md)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G2 |R2 |S |
-|20      |[Natabhairavi](ragas/Natabhairavi)               |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N2 |S |
+|20      |[Natabhairavi](ragas/Natabhairavi) |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G2 |R2 |S |
-|21      |Keeravāni                  |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N3 |S |
+|21      |[Keeravāni](ragas/Keeravāni)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G2 |R2 |S |
 |22      |Kharaharapriya             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R2 |S |
