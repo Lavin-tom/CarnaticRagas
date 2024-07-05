@@ -95,7 +95,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G2 |R2 |S |
 |21      |[Keeravāni](ragas/Keeravāni)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G2 |R2 |S |
-|22      |Kharaharapriya             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N2 |S |
+|22      |[Kharaharapriya](ragas/Kharaharapriya)             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R2 |S |
 |23      |Gowri Manohari             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G2 |R2 |S |
