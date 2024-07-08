@@ -102,7 +102,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |24      |[Varunapriyaa](ragas/Varunapriyaa)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  |
-|25      |Māraranjani                |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
+|25      |[Māraranjani](ragas/Māraranjani)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R2 |S |
 |26      |Chārukeshi                 |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R2 |S |
