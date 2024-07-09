@@ -104,7 +104,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|          |  |   |   |   |   |   |   |  |
 |25      |[Māraranjani](ragas/Māraranjani)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R2 |S |
-|26      |Chārukeshi                 |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N2 |S |
+|26      |[Chārukeshi](ragas/Chārukeshi)                 |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R2 |S |
 |27      |Sarasāngi                  |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R2 |S |
