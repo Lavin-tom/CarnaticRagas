@@ -108,7 +108,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R2 |S |
 |27      |[Sarasāngi](ragas/Sarasāngi)                  |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R2 |S |
-|28      |Harikāmbhoji               |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N2 |S |
+|28      |[Harikāmbhoji](ragas/Harikāmbhoji)               |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G3 |R2 |S |
 |29      |Dheera Shankarābharanam    |Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G3 |R2 |S |
