@@ -39,7 +39,11 @@
 |        |                           |Avarohanam|S |D2|P |M1|G3|R1|S |  |  |  |  |
 |19      |Shyāmali                   |Aarohanam |S |G3|P |D2|N2|S |  |  |  |  |  |
 |        |                           |Avarohanam|S |N2|D2|P |G3|R1|S |  |  |  |  |
+<<<<<<< HEAD
 |20      |Subhāshini     		     |Aarohanam |S |D2|N2|D |R1|G3|M1|P |  |  |  |
+=======
+|20      |Subhāshini     		     |Aarohanam |S |D2|N2|D|R1|G3|M1|P |  |  |  |
+>>>>>>> cafc1dae37853ca22f2badaea9babda5983e08d3
 |        |                           |Avarohanam|M1|G3|R1|S |N2|D2|N2|S |  |  |  |
 |21      |Valaji                     |Aarohanam |S |G3|P |D2|N2|S |  |  |  |  |  |
 |        |                           |Avarohanam|S |N2|D2|P |G3|S |  |  |  |  |  |
