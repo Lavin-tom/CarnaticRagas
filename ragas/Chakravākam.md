@@ -1,53 +1,27 @@
-|        |Ragas derived from Chakravākam|       |  |  |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |  |  |
-|1       |Toyavegavāhini             |Aarohanam |S |R1|G3|M1|P |D2|N2|S |  |  |  | 
-|        |                           |Avarohanam|S |N2|D2|P |M1|G3|R1|S |  |  |  |
-|2       |Āhir Bhairavi              |Aarohanam |S |R1|G3|M1|P |N2|D2|M1|P |D2|S |
-|        |                           |Avarohanam|S |N2|D2|P |M1|P |G3|R1|S |  |  |
-|3       |Bhakthapriya               |Aarohanam |S |G3|M1|P |D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|R1|M1|G3|S |  |  |
-|4       |Bhujāngini     		     |Aarohanam |S |R1|G3|M1|D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|M1|G3|R1|S |  |  |  |  |
-|5       |Bindhumālini               |Aarohanam |S |G3|R1|G3|M1|P |N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|S |D2|P |G3|M1|P |G3|R1|S |
-|6       |Chakranārāyani             |Aarohanam |S |R1|M1|P |D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|R1|S |  |  |  |  |
-|7       |Ghoshini                   |Aarohanam |S |M1|G3|M1|P |D2|N2|D2|S |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|G3|R1|S |  |  |  |
-|8       |Guhapriya     		     |Aarohanam |S |R1|G3|M1|P |P |M1|D2|N2|S |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|G3|S |R1|S |  |  |
-|9       |Kalāvati                   |Aarohanam |S |R1|M1|P |D2|S |  |  |  |  |  |
-|        |                           |Avarohanam|S |D2|P |M1|G3|S |R1|S |  |  |  |
-|10      |Kokilā                     |Aarohanam |S |R1|G3|M1|D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|M1|G3|R1|S |  |  |  |  |
-|11      |Malayamārutam              |Aarohanam |S |R1|G3|P |D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |G3|R1|S |  |  |  |  |
-|12      |Mukthāngi      		     |Aarohanam |S |R1|G3|M1|P |D2|N2|S |  |  |  |
-|        |                           |Avarohanam|S |D2|N2|P |M1|G3|R1|S |  |  |  |
-|13      |Mukundamālini              |Aarohanam |S |R1|G2|P |D2|S |  |  |  |  |  |
-|        |                           |Avarohanam|S |D2|P |G2|R1|S |  |  |  |  |  |
-|14      |Poornapanchamam            |Aarohanam |S |R1|G1|M2|P |D2|  |  |  |  |  |
-|        |                           |Avarohanam|D2|P |M2|G1|R1|S |  |  |  |  |  |
-|15      |Pravritti                  |Aarohanam |S |G3|M1|P |D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|G3|S |  |  |  |  |
-|16      |Rāgamanjari     	 	     |Aarohanam |S |R1|M1|P |D2|S |  |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|M1|R1|S |  |  |  |  |  |
-|17      |Rasikaranjani              |Aarohanam |S |R1|G3|P |S |  |  |  |  |  |  |
-|        |                           |Avarohanam|S |D2|P |G3|R1|S |  |  |  |  |  |
-|18      |Shree Nabhomārgini         |Aarohanam |S |G3|M1|P |D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |D2|P |M1|G3|R1|S |  |  |  |  |
-|19      |Shyāmali                   |Aarohanam |S |G3|P |D2|N2|S |  |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |G3|R1|S |  |  |  |  |
-<<<<<<< HEAD
-|20      |Subhāshini     		     |Aarohanam |S |D2|N2|D |R1|G3|M1|P |  |  |  |
-=======
-|20      |Subhāshini     		     |Aarohanam |S |D2|N2|D|R1|G3|M1|P |  |  |  |
->>>>>>> cafc1dae37853ca22f2badaea9babda5983e08d3
-|        |                           |Avarohanam|M1|G3|R1|S |N2|D2|N2|S |  |  |  |
-|21      |Valaji                     |Aarohanam |S |G3|P |D2|N2|S |  |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |G3|S |  |  |  |  |  |
-|22      |Veenadhāri                 |Aarohanam |S |R1|G3|P |D2|N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|G3|R1|S |  |  |  |
-|23      |Vegavāhini                 |Aarohanam |S |R1|G3|M1|D2|N2|D2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|G3|R1|S |  |  |  |
+| \* | Raga                                                                                 | ārohanam                     | avarohanam                  |
+| -- | ------------------------------------------------------------------------------------ | ---------------------------- | --------------------------- |
+| 16 | [Chakravākam](https://en.wikipedia.org/wiki/Chakravakam_(raga) "Chakravakam (raga)") | S R₁ G₃ M₁ P D₂ N₂ Ṡ         | Ṡ N₂ D₂ P M₁ G₃ R₁ S        |
+| 1  | Toyavegavāhini                                                                       | S R₁ G₃ M₁ P D₂ N₂ Ṡ         | Ṡ N₂ D₂ P M₁ G₃ R₁ S        |
+| 2  | Āhir Bhairavi                                                                        | S R₁ G₃ M₁ P N₂ D₂ M₁ P D₂ Ṡ | Ṡ N₂ D₂ P M₁ P G₃ R₁ S      |
+| 3  | Bhakthapriya                                                                         | S G₃ M₁ P D₂ N₂ Ṡ            | Ṡ N₂ D₂ P M₁ R₁ M₁ G₃ S     |
+| 4  | Bhujāngini                                                                           | S R₁ G₃ M₁ D₂ N₂ Ṡ           | Ṡ N₂ D₂ M₁ G₃ R₁ S          |
+| 5  | Bindhumālini                                                                         | S G₃ R₁ G₃ M₁ P N₂ Ṡ         | Ṡ N₂ S D₂ P G₃ M₁ P G₃ R₁ S |
+| 6  | Chakranārāyani                                                                       | S R₁ M₁ P D₂ N₂ Ṡ            | Ṡ N₂ D₂ P M₁ R₁ S           |
+| 7  | Ghoshini                                                                             | S M₁ G₃ M₁ P D₂ N₂ D₂ Ṡ      | Ṡ N₂ D₂ P M₁ G₃ R₁ S        |
+| 8  | Guhapriya                                                                            | S R₁ G₃ M₁ P P M₁ D₂ N₂ Ṡ    | Ṡ N₂ D₂ P M₁ G₃ S R₁ S      |
+| 9  | Kalāvati                                                                             | S R₁ M₁ P D₂ Ṡ               | Ṡ D₂ P M₁ G₃ S R₁ S         |
+| 10 | Kokilā                                                                               | S R₁ G₃ M₁ D₂ N₂ Ṡ           | Ṡ N₂ D₂ M₁ G₃ R₁ S          |
+| 11 | [Malayamārutam](https://en.wikipedia.org/wiki/Malayamarutam "Malayamarutam")         | S R₁ G₃ P D₂ N₂ Ṡ            | Ṡ N₂ D₂ P G₃ R₁ S           |
+| 12 | Mukthāngi                                                                            | S R₁ G₃ M₁ P D₂ N₂ Ṡ         | Ṡ D₂ N₂ P M₁ G₃ R₁ S        |
+| 13 | Mukundamālini                                                                        | S R₁ G₂ P D₂ Ṡ               | Ṡ D₂ P G₂ R₁ S              |
+| 14 | Poornapanchamam                                                                      | P M₁ S R₁ S M₁ P D₂          | D₂ P M₁ G₃ R₁ S N₂          |
+| 15 | Pravritti                                                                            | S G₃ M₁ P D₂ N₂ Ṡ            | Ṡ N₂ D₂ P M₁ G₃ S           |
+| 16 | Rāgamanjari                                                                          | S R₁ M₁ P D₂ Ṡ               | Ṡ N₂ D₂ M₁ R₁ S             |
+| 17 | Rasikaranjani                                                                        | S R₁ G₃ P Ṡ                  | Ṡ D₂ P G₃ R₁ S              |
+| 18 | Rudra Panchami                                                                       | S G₃ M₁ D₂ N₂ Ṡ              | Ṡ N₃ D₂ M₁ G₃ R₁ S          |
+| 19 | Shree Nabhomārgini                                                                   | S G₃ M₁ P D₂ N₂ Ṡ            | Ṡ D₂ P M₁ G₃ R₁ S           |
+| 20 | Shyāmali                                                                             | S G₃ P D₂ N₂ Ṡ               | Ṡ N₂ D₂ P G₃ R₁ S           |
+| 21 | Subhāshini                                                                           | S D₂ N₂ D R₁ G₃ M₁ P         | M₁ G₃ R₁ S N₂ D₂ N₂ S       |
+| 22 | [Valaji](https://en.wikipedia.org/wiki/Valaji "Valaji")                              | S G₃ P D₂ N₂ Ṡ               | Ṡ N₂ D₂ P G₃ S              |
+| 23 | Veenadhāri                                                                           | S R₁ G₃ P D₂ N₂ Ṡ            | Ṡ N₂ D₂ P M₁ G₃ R₁ S        |
+| 24 | Vegavāhini                                                                           | S R₁ G₃ M₁ D₂ N₂ D₂ Ṡ        | Ṡ N₂ D₂ P M₁ G₃ R₁ S        |

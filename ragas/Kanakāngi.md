@@ -1,25 +1,15 @@
-|        |Ragas derived from Kanakāmbari|       |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Kanakāmbari                |Aarohanam |S |R1|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|G1|R1|S |  |
-|2       |Kanakatodi                 |Aarohanam |S |R1|G1|M1|P |D1|S |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|R1|S |  |  |
-|3       |Karnātaka Shuddha Sāveri   |Aarohanam |S |R1|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |D1|P |M1|R1|S |  |  |  |
-|4       |Latantapriya				       |Aarohanam |S |R1|G1|M1|P |D1|S |  |  |
-|        |                           |Avarohanam|S |D1|P |M1|R1|S |  |  |  |
-|5       |Lavangi				             |Aarohanam |S |R1|M1|D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |D1|M1|R1|S |  |  |  |  |
-|6       |Megha				               |Aarohanam |S |R1|M1|P |D1|N1|D1|P |S |
-|        |                           |Avarohanam|S |N1|D1|P |M1|R1|S |  |  |
-|7       |Rishabhavilāsa		         |Aarohanam |S |R1|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |D1|P |M1|R1|M1|R1|S |  |
-|8       |Sarvashree		             |Aarohanam |S |M1|P |S |  |  |  |  |  |
-|        |                           |Avarohanam|S |P |M1|S |  |  |  |  |  |
-|9       |Suddha Mukhāri		         |Aarohanam |S |R1|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|G1|R1|S |  |
-|10      |Tatillatika		             |Aarohanam |S |R1|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |D1|P |M1|R1|S |  |  |  |
-|11      |Vāgeeshwari		             |Aarohanam |S |R1|G1|M1|P |D1|  |S |  |
-|        |                           |Avarohanam|S |D1|M1|P |G1|R1|S |  |  |
+| \* | Raga                                                                                                          | ārohanam               | avarohanam           |
+| -- | ------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- |
+| 1  | [Kanakāngi (Janaka raga)](https://en.wikipedia.org/wiki/Kanakangi "Kanakangi")                                | S R₁ G₁ M₁ P D₁ N₁ Ṡ   | Ṡ N₁ D₁ P M₁ G₁ R₁ S |
+| 1  | [Kanakāmbari](https://en.wikipedia.org/wiki/Kanakambari "Kanakambari")                                        | S R₁ M₁ P D₁ Ṡ         | Ṡ N₁ D₁ P M₁ G₁ R₁ S |
+| 2  | Kanakatodi                                                                                                    | S R₁ G₁ M₁ P D₁ Ṡ      | Ṡ N₁ D₁ P M₁ R₁ S    |
+| 3  | Mādhavapriyā                                                                                                  | S R₁ G₁ P D₁ N₁ Ṡ      | Ṡ N₁ D₁ P G₁ R₁ S    |
+| 4  | [Karnātaka Shuddha Sāveri](https://en.wikipedia.org/wiki/Karnataka_Shuddha_Saveri "Karnataka Shuddha Saveri") | S R₁ M₁ P D₁ Ṡ         | Ṡ D₁ P M₁ R₁ S       |
+| 5  | Latantapriya                                                                                                  | S R₁ G₁ M₁ P D₁ Ṡ      | Ṡ D₁ P M₁ R₁ S       |
+| 6  | Lavangi (Raga created by M. Balamuralikrishna)                                                                | S R₁ M₁ D₁ Ṡ           | Ṡ D₁ M₁ R₁ S         |
+| 7  | Megha                                                                                                         | S R₁ M₁ P D₁ N₁ D₁ P Ṡ | Ṡ N₁ D₁ P M₁ R₁ S    |
+| 8  | Rishabhavilāsa                                                                                                | S R₁ M₁ P D₁ Ṡ         | Ṡ D₁ P M₁ R₁ M₁ R₁ S |
+| 9  | Sarvashree                                                                                                    | S M₁ P Ṡ               | Ṡ P M₁ S             |
+| 10 | Suddha Mukhāri                                                                                                | S R₁ M₁ P D₁ Ṡ         | Ṡ N₁ D₁ P M₁ G₁ R₁ S |
+| 11 | Tatillatika                                                                                                   | S R₁ M₁ P D₁ Ṡ         | Ṡ D₁ P M₁ R₁ S       |
+| 12 | Vāgeeshwari                                                                                                   | S R₁ G₁ M₁ P D₁ Ṡ      | Ṡ D₁ M₁ P G₁ R₁ S    |
