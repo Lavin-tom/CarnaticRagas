@@ -1,13 +1,7 @@
-|        |Ragas derived from Senāvati|          |  |  |  |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |  |  |  |
-|1       |Senāgrani                  |Aarohanam |S |R1|G2|R1|M1|G2|M1|P |N1|D1|S |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|G2|M1|G2|R1|S |  |  |
-|2       |Bhogi                      |Aarohanam |S |G2|M1|P |D1|N1|D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|G2|S |	|  |  |  |  |
-|3       |Chitthakarshani            |Aarohanam |S |R1|G2|M1|D1|S |  |	|  |  |	 |	|
-|        |                           |Avarohanam|S |D1|M1|G2|R1|S |  |	|  |  |  |	|
-|4       |Navarasa Mālā     	     |Aarohanam |S |R1|G2|M1|P |D1|S |  |  |  |  |	|
-|        |                           |Avarohanam|S |N1|D1|P |M1|R1|S |  |  |  |  |	|
-|5       |Sindhu Gowri     	         |Aarohanam |S |R1|G2|M1|P |D1|N1|S |  |  |  |  |
-|        |                           |Avarohanam|S |N1|D1|M1|G2|M1|R1|S |  |  |  |  |
+| **7 [Senāvati](https://en.wikipedia.org/wiki/Senavati "Senavati")** | S R₁ G₂ M₁ P D₁ N₁ Ṡ          | Ṡ N₁ D₁ P M₁ G₂ R₁ S       |
+| ------------------------------------------------------------------- | ----------------------------- | -------------------------- |
+| **Senāgrani**                                                       | S R₁ G₂ R₁ M₁ G₂ M₁ P N₁ D₁ Ṡ | Ṡ N₁ D₁ P M₁ G₂ M₁ G₂ R₁ S |
+| _Bhogi_                                                             | S G₂ M₁ P D₁ N₁ D₁ Ṡ          | Ṡ N₁ D₁ P M₁ G₂ S          |
+| _Chitthakarshani_                                                   | S R₁ G₂ M₁ D₁ Ṡ               | Ṡ D₁ M₁ G₂ R₁ S            |
+| _Navarasa Mālā_                                                     | S R₁ G₂ M₁ P D₁ Ṡ             | Ṡ N₁ D₁ P M₁ R₁ S          |
+| _Sindhu Gowri_                                                      | S R₁ G₂ M₁ P D₁ N₁ Ṡ          | Ṡ N₁ D₁ M₁ G₂ M₁ R₁ S      |

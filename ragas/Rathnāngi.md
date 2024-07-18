@@ -1,15 +1,9 @@
-|        |Ragas derived from Rathnāngi|         |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Phenadhyuti                |Aarohanam |S |R1|M1|P |D1|P |N2|S |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G1|R1|S |  |
-|2       |Ganamukhāri                |Aarohanam |S |R1|M1|D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|R1|S |  |  |  |
-|3       |Ratnavarāli                |Aarohanam |S |R1|M1|P |N2|D1|S |  |  |
-|        |                           |Avarohanam|S |N2|P |M1|R1|G1|R1|S |  |
-|4       |Revati     				         |Aarohanam |S |R1|M1|P |N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|P |M1|R1|S |  |  |  |
-|5       |Shreemani				           |Aarohanam |S |R1|G1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |G1|R1|S |  |  |
-|6       |Shreemati				           |Aarohanam |S |R1|G1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |G1|R1|S |  |  |
+| **2 [Ratnāngi](https://en.wikipedia.org/wiki/Ratnangi "Ratnangi")**     | S R₁ G₁ M₁ P D₁ N₂ Ṡ | Ṡ N₂ D₁ P M₁ G₁ R₁ S |
+| ----------------------------------------------------------------------- | -------------------- | -------------------- |
+| **Phenadhyuti**                                                         | S R₁ M₁ P D₁ P N₂ Ṡ  | Ṡ N₂ D₁ P M₁ G₁ R₁ S |
+| _Ganamukhāri_                                                           | S R₁ M₁ D₁ Ṡ         | Ṡ N₂ D₁ M₁ R₁ S      |
+| _Ratnavarāli_                                                           | S R₁ M₁ P N₂ D₁ Ṡ    | Ṡ N₂ P M₁ R₁ G₁ R₁ S |
+| _[Revati](https://en.wikipedia.org/wiki/Revati_(raga) "Revati (raga)")_ | S R₁ M₁ P N₂ Ṡ       | Ṡ N₂ P M₁ R₁ S       |
+| _Shreemani_                                                             | S R₁ G₁ P D₁ Ṡ       | Ṡ N₂ D₁ P G₁ R₁ S    |
+| _Shreemati_                                                             | S R₁ G₁ P D₁ Ṡ       | Ṡ N₂ D₁ P G₁ R₁ S    |
+| _[Svadhya](https://en.wikipedia.org/wiki/Svadhya "Svadhya")_            | S R₁ M₁ P N₂ Ṡ       | Ṡ N₂ D₁ P M₁ R₁ S    |

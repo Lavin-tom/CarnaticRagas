@@ -1,47 +1,29 @@
-|        |Ragas derived from Hanumatodi|        |  |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |  |
-|1       |Janatodi                   |Aarohanam |S |R1|G2|M1|P |D1|N2|S |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
-|2       |Amrita Dhanyāsi            |Aarohanam |S |R1|G2|M1|P |N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|P |M1|G2|R1|S |  |  |  |
-|3       |Asāveri                    |Aarohanam |S |R2|G2|M1|D2|N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|M1|P |D2|M1|G2|R2|S |
-|4       |Bhānuchandrika     	     |Aarohanam |S |M1|D1|N2|S |  |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|G1|S |  |  |  |  |
-|5       |Bhadratodi     	         |Aarohanam |S |R1|G2|M1|D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |G2|S |  |  |  |  |
-|6       |Bhoopālam     	         |Aarohanam |S |R1|G2|P |D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |D1|P |G2|R1|S |  |  |  |  |
-|7       |Chandrikatodi     	     |Aarohanam |S |G2|M1|P |D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |D1|P |M1|G2|S |  |  |  |  |
-|8       |Deshikatodi     	         |Aarohanam |S |G2|M1|P |D1|N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
-|9       |Dhanyāsi       	         |Aarohanam |S |G2|M1|P |N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
-|10      |Divyamālati     	         |Aarohanam |S |G2|M1|P |D1|N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|S |  |  |  |
-|11      |Ghanta         	         |Aarohanam |S |G2|R2|M1|P |N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
-|12      |Kalāsāveri     	         |Aarohanam |S |R1|G2|P |N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|P |G2|R1|S |  |  |  |  |
-|13      |Kanakasāveri     	         |Aarohanam |S |R1|M1|P |D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
-|14      |Nāgavarāli     	         |Aarohanam |S |R1|G2|M1|P |M1|D1|N2|S |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
-|15      |Prabhupriya     	         |Aarohanam |S |G2|M1|P |D1|S |  |  |  |  |
-|        |                           |Avarohanam|S |D1|P |M1|G2|S |  |  |  |  |
-|16      |Punnāgatodi     	         |Aarohanam |N1|S |R1|G2|M1|P |  |  |  |  |
-|        |                           |Avarohanam|P |M1|G2|R1|S |N2|D1|  |  |  |
-|17      |Punnāgavarāli     	     |Aarohanam |N2|S |R1|G2|M1|P |D1|N2|  |  |
-|        |                           |Avarohanam|N2|D1|P |M1|G2|R1|S |N2|  |  |
-|18      |Shravanamallika     	     |Aarohanam |S |G2|M1|P |D1|N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
-|19      |Sowjanya             	     |Aarohanam |S |R1|M1|D1|S |  |  |  |  |  |
-|        |                           |Avarohanam|S |D1|M1|R1|S |  |  |  |  |  |
-|20      |Shuddha Seemantini         |Aarohanam |S |R1|G2|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |D1|P |M1|G2|R1|S |  |  |  |
-|21      |Shuddha Todi       	     |Aarohanam |S |R1|G2|M1|D1|N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|G2|R1|S |  |  |  |
-|22      |Swarnamalli       	     |Aarohanam |S |G2|M1|P |D1|N1|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|R1|S |  |  |
+| **8 [Hanumatodi](https://en.wikipedia.org/wiki/Hanumatodi "Hanumatodi")**                         | S R₁ G₂ M₁ P D₁ N₂ Ṡ                                | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------- |
+| **Janatodi**                                                                                      | S R₁ G₂ M₁ P D₁ N₂ Ṡ                                | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
+| _[Āhiri](https://en.wikipedia.org/wiki/Ahiri "Ahiri")_                                            | S R₁ S G₃ M₁ P D₁ N₂ Ṡ                              | Ṡ N₂ D₁ P M₁ G₃ R₁ S _(Anya swara\*_ : R₂ G₂ / G₃ D₂ N₃)  |
+| _Amrita Dhanyāsi_                                                                                 | S R₁ G₂ M₁ P N₂ Ṡ                                   | Ṡ N₂ P M₁ G₂ R₁ S                                         |
+| _[Asāveri](https://en.wikipedia.org/wiki/Asaveri "Asaveri")_                                      | S R₁ M₁ P D₁ Ṡ                                      | Ṡ N₂ S P D₁ M₁ P R₁ G₂ R₁ S _(Anya swara\*_ : R₂)         |
+| _Bhānuchandrika_                                                                                  | S M₁ D₁ N₂ Ṡ                                        | Ṡ N₂ D₁ M₁ G₁ S                                           |
+| _Bhadratodi_                                                                                      | S R₁ G₂ M₁ D₁ Ṡ                                     | Ṡ N₂ D₁ P G₂ S                                            |
+| _[Bhoopālam](https://en.wikipedia.org/wiki/Bhupalam "Bhupalam")_                                  | S R₁ G₂ P D₁ Ṡ                                      | Ṡ D₁ P G₂ R₁ S                                            |
+| _Chandrikatodi_                                                                                   | S G₂ M₁ P D₁ Ṡ                                      | Ṡ D₁ P M₁ G₂ S                                            |
+| _Deshikatodi_                                                                                     | S G₂ M₁ P D₁ N₂ Ṡ                                   | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
+| _Dhanyāsi_                                                                                        | S G₂ M₁ P N₂ Ṡ                                      | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
+| _Divyamālati_                                                                                     | S G₂ M₁ P D₁ N₂ Ṡ                                   | Ṡ N₂ D₁ P M₁ G₂ S                                         |
+| _Ghanta_                                                                                          | S G₂ R₂ M₁ P N₂ Ṡ                                   | Ṡ N₂ D₁ P M₁ G₂ R₁ S _(Anya swara\*_ : R₂ D₂)             |
+| _Kalāsāveri_                                                                                      | S R₁ G₂ P N₂ Ṡ                                      | Ṡ N₂ P G₂ R₁ S                                            |
+| _Kanakasāveri_                                                                                    | S R₁ M₁ P D₁ Ṡ                                      | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
+| _Nāgavarāli_                                                                                      | S R₁ G₂ M₁ P M₁ D₁ N₂ Ṡ                             | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
+| _Prabhupriya_                                                                                     | S G₂ M₁ P D₁ Ṡ                                      | Ṡ D₁ P M₁ G₂ S                                            |
+| _Punnāgatodi_                                                                                     | N₁ S R₁ G₂ M₁ P                                     | P M₁ G₂ R₁ S N₂ D₁                                        |
+| _[Punnagavarali](https://en.wikipedia.org/wiki/Punnagavarali "Punnagavarali")_                    | N₂ S R₁ G₂ M₁ P D₁ N₂                               | N₂ D₁ P M₁ G₂ R₁ S N₂ _(Anya swara\*_ : R₂)               |
+| _Shravanamallika_                                                                                 | S G₂ M₁ P D₁ N₂ Ṡ                                   | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
+| _Sowjanya_                                                                                        | S R₁ M₁ D₁ Ṡ                                        | Ṡ D₁ M₁ R₁ S                                              |
+| _Shuddha Seemantini_                                                                              | S R₁ G₂ M₁ P D₁ Ṡ                                   | Ṡ D₁ P M₁ G₂ R₁ S                                         |
+| _Shuddha Todi_                                                                                    | S R₁ G₂ M₁ D₁ N₂ Ṡ                                  | Ṡ N₂ D₁ M₁ G₂ R₁ S                                        |
+| _[Sindhubhairavi](https://en.wikipedia.org/wiki/Sindhu_Bhairavi_(raga) "Sindhu Bhairavi (raga)")_ | S R₂ G₂ M₁ G₂ P D₁ N₂ S                             | N₂ D₁ P M₁ G₂ R₁ S N₂ S (_Anya swara\*_ : R₂ G₃ M₂ D₂ N₃) |
+| _Sri Mati_                                                                                        | S G₂ R₁ G₂ M₁ P D₁ P D₂\* N₂ Ṡ
+
+(Anya swara\* : D₂) | Ṡ N₂ D₁ P M₁ P M₁ G₂ R₁ S                                 |
+| _Swarnamalli_                                                                                     | S G₂ M₁ P D₁ N₁ Ṡ                                   | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |

@@ -1,15 +1,7 @@
-|        |Ragas derived from Gāyakapriya|       |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Geya Hejjajji              |Aarohanam |S |R1|G3|M1|P |D1|N1|S |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|G3|R1|S |  |
-|2       |Hejjajji                   |Aarohanam |S |R1|M1|G3|M1|P |D1|S |  |
-|        |                           |Avarohanam|S |N3|D1|P |M1|G3|R1|S |  |
-|3       |Kalākānti                  |Aarohanam |S |R1|G3|M1|P |D1|S |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|G3|R1|S |  |
-|4       |Kalkada     		         |Aarohanam |S |R1|G3|P |D1|N1|S |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |G3|R1|S |  |  |
-|        |               		     |Aarohanam |S |R1|G3|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |G3|R1|S |  |  |
-|5       |Kalpanadhārini     		 |Aarohanam |S |G3|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |N1|D1|P |M1|G3|R1|S |  |
+| **13 [Gāyakapriyā](https://en.wikipedia.org/wiki/Gayakapriya "Gayakapriya")** | S R₁ G₃ M₁ P D₁ N₁ Ṡ                | Ṡ N₁ D₁ P M₁ G₃ R₁ S |
+| ----------------------------------------------------------------------------- | ----------------------------------- | -------------------- |
+| **Geya Hejjajji**                                                             | S R₁ M₁ G₃ M₁ P D₁ Ṡ                | Ṡ N₃ D₁ P M₁ G₃ R₁ S |
+| _Hejjajji_                                                                    | S R₁ G₃ M₁ P D₁ Ṡ                   | Ṡ N₁ D₁ P M₁ G₃ R₁ S |
+| _Kalākānti_                                                                   | S R₁ G₃ M₁ D₁ N₁ Ṡ                  | Ṡ N₁ D₁ P G₃ R₁ S    |
+| _Kalkada_                                                                     | S R₁ G₃ P D₁ N₁ S<br>S R₁ G₃ P D₁ Ṡ | Ṡ N₁ D₁ P G₃ R₁ S    |
+| _Kalpanadhārini_                                                              | S G₃ M₁ P D₁ Ṡ                      | Ṡ N₁ D₁ P M₁ G₃ R₁ S |

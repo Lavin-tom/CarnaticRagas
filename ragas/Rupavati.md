@@ -1,7 +1,4 @@
-|        |Ragas derived from Rupavati|          |  |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |  |
-|1       |Rowpyanaka                 |Aarohanam |S |M1|P |D3|N3|S |  |  |  |  |
-|        |                           |Avarohanam|S |N3|P |M1|G2|R1|S |  |  |  |
-|2       |Shyāmakalyāni              |Aarohanam |S |M1|G2|M1|P |D3|N3|S |  |  |
-|        |                           |Avarohanam|S |N3|P |D3|N3|P |M1|G2|R1|S |
+| **12 [Rūpavati](https://en.wikipedia.org/wiki/Rupavati "Rupavati")** | S R₁ G₂ M₁ P D₃ N₃ Ṡ | Ṡ N₃ D₃ P M₁ G₂ R₁ S      |
+| -------------------------------------------------------------------- | -------------------- | ------------------------- |
+| _Rowpyanaka_                                                         | S M₁ P D₃ N₃ Ṡ       | Ṡ N₃ P M₁ G₂ R₁ S         |
+| _Shyāmakalyāni_                                                      | S M₁ G₂ M₁ P D₃ N₃ Ṡ | Ṡ N₃ P D₃ N₃ P M₁ G₂ R₁ S |

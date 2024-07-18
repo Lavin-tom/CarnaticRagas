@@ -1,11 +1,6 @@
-|        |Ragas derived from Vanaspati|         |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Bhānumati                  |Aarohanam |N2|S |M1|P |N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|G2|R2|S |  |
-|2       |Rasāli                     |Aarohanam |S |R1|M1|P |D2|N2|S |  |  |
-|        |                           |Avarohanam|S |D2|P |M1|R1|S |  |  |  |
-|3       |Vanāvali                   |Aarohanam |S |R1|M1|P |D2|N2|S |  |  |
-|        |                           |Avarohanam|S |D2|P |M1|R1|S |  |  |  |
-|4       |Vittalapriya     		     |Aarohanam |S |R1|M1|P |D2|S |  |  |  |
-|        |                           |Avarohanam|S |D2|P |M1|R1|S |  |  |  |
+| **4 [Vanaspati](https://en.wikipedia.org/wiki/Vanaspati_(Raga) "Vanaspati (Raga)")** | S R₁ G₁ M₁ P D₂ N₂ Ṡ | Ṡ N₂ D₂ P M₁ G₁ R₁ S |
+| ------------------------------------------------------------------------------------ | -------------------- | -------------------- |
+| **Bhānumati**                                                                        | N₂ S M₁ P N₂ Ṡ       | Ṡ N₂ D₂ P M₁ G₂ R₂ S |
+| _Rasāli_                                                                             | S R₁ M₁ P D₂ N₂ Ṡ    | Ṡ D₂ P M₁ R₁ S       |
+| _Vanāvali_                                                                           | S R₁ M₁ P D₂ N₂ Ṡ    | Ṡ D₂ P M₁ R₁ S       |
+| _Vittalapriya_                                                                       | S R₁ M₁ P D₂ Ṡ       | Ṡ D₂ P M₁ R₁ S       |

@@ -1,5 +1,3 @@
-|        |Ragas derived from Tanukeerti|          |  |  |  |  |  |  |  |  |  | |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |  |
-|1       |Tanukeerti                 |Aarohanam |S |R1|M1|P |N3|S |  |  |  |  |
-|        |                           |Avarohanam|S |N3|D3|N3|P |M1|G1|M1|R1|S |
+| **6 [Tānarūpi](https://en.wikipedia.org/wiki/Tanarupi "Tanarupi")** | S R₁ G₁ M₁ P D₃ N₃ Ṡ | Ṡ N₃ D₃ P M₁ G₁ R₁ S       |
+| ------------------------------------------------------------------- | -------------------- | -------------------------- |
+| **Tanukeerti**                                                      | S R₁ M₁ P N₃ Ṡ       | Ṡ N₃ D₃ N₃ P M₁ G₁ M₁ R₁ S |

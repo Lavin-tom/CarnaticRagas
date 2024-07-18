@@ -1,29 +1,16 @@
-|        |Ragas derived from Vakulābharanam|    |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Vātee Vasantabhairavi      |Aarohanam |S |R1|G3|M1|D1|N2|S |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|G3|R1|S |  |  |
-|2       |Āhiri                      |Aarohanam |S |R1|S |G3|M1|P |D1|N2|S |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G3|R1|S |  |
-|3       |Amudhasurabhi              |Aarohanam |S |M1|G3|M1|P |D1|S |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|R1|S |  |  | 
-|4       |Devipriya     		     |Aarohanam |S |G3|P |N2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G3|R1|S |  |
-|5       |Kalindaja                  |Aarohanam |S |R1|G3|M1|P |N2|S |  |  | 
-|        |                           |Avarohanam|S |N2|P |M1|G3|R1|S |  |  |
-|6       |Kuvalayabharanam           |Aarohanam |S |R1|G3|M1|D1|N1|S |  |  |
-|        |                           |Avarohanam|S |N1|D1|M1|G3|R1|S |  |  |
-|7       |Sallapa                    |Aarohanam |S |G3|M1|D1|N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|G3|S |  |  |  |
-|8       |Soma          		     |Aarohanam |S |R1|P |M1|D1|N2|S |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|P |M1|G3|R1|S |
-|9       |Sūryā                      |Aarohanam |S |G3|M1|D1|N2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|G3|S |  |  |  |
-|10      |Shuddha Kāmbhoji           |Aarohanam |S |G3|R1|M1|P |N2|S |  |  |
-|        |                           |Avarohanam|S |N2|P |M1|G3|R1|S |  |  | 
-|11      |Vasantabhairavi            |Aarohanam |S |R1|G3|M1|D1|N2|S |  |  |
-|        |                           |Avarohanam|S |N2|D1|M1|G3|R1|S |  |  |
-|12      |Vasanta Mukhāri     		 |Aarohanam |S |M1|G3|M1|P |D1|N2|S |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G3|R1|S |  |
-|13      |Vijayollāsini              |Aarohanam |S |R1|G3|M1|P |M1|D1|N2|S |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G3|R1|S |  |
+| **14 [Vakuḷābharaṇam](https://en.wikipedia.org/wiki/Vakulabharanam "Vakulabharanam")**                                               | S R₁ G₃ M₁ P D₁ N₂ Ṡ    | Ṡ N₂ D₁ P M₁ G₃ R₁ S                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------------------------- |
+| _[Āhiri](https://en.wikipedia.org/wiki/Ahiri "Ahiri")_                                                                               | S R₁ S G₃ M₁ P D₁ N₂ Ṡ  | Ṡ N₂ D₁ P M₁ G₃ R₁ S _(Anya swara\*_ : R₂ G₂ / G₃ D₂ N₃) |
+| **Vātee Vasantabhairavi**                                                                                                            | S R₁ G₃ M₁ D₁ N₂ Ṡ      | Ṡ N₂ D₁ M₁ G₃ R₁ S                                       |
+| _Amudhasurabhi_                                                                                                                      | S M₁ G₃ M₁ P D₁ Ṡ       | Ṡ N₂ D₁ P M₁ R₁ S                                        |
+| _Devipriya_                                                                                                                          | S G₃ P N₂ Ṡ             | Ṡ N₂ D₁ P M₁ G₃ R₁ S                                     |
+| _Kalindaja_                                                                                                                          | S R₁ G₃ M₁ P N₂ Ṡ       | Ṡ N₂ P M₁ G₃ R₁ S                                        |
+| _Kuvalayabharanam_                                                                                                                   | S R₁ G₃ M₁ D₁ N₁ Ṡ      | Ṡ N₁ D₁ M₁ G₃ R₁ S                                       |
+| _Mukthipradayini (Raga created by Mahesh Mahadev)_<sup>[[4]](https://en.wikipedia.org/wiki/List_of_Janya_ragas#cite_note-:0-4)</sup> | S R₁ G₃ P N₂ Ṡ          | Ṡ N₂ P D₁ P G₃ R₁ S                                      |
+| _Sallapa_                                                                                                                            | S G₃ M₁ D₁ N₂ Ṡ         | Ṡ N₂ D₁ M₁ G₃ S                                          |
+| _Soma_                                                                                                                               | S R₁ P M₁ D₁ N₂ Ṡ       | Ṡ N₂ D₁ M₁ P M₁ G₃ R₁ S                                  |
+| _Sūryā_                                                                                                                              | S G₃ M₁ D₁ N₂ Ṡ         | Ṡ N₂ D₁ M₁ G₃ S                                          |
+| _Shuddha Kāmbhoji_                                                                                                                   | S G₃ R₁ M₁ P N₂ Ṡ       | Ṡ N₂ P M₁ G₃ R₁ S                                        |
+| _Vasantabhairavi_                                                                                                                    | S R₁ G₃ M₁ D₁ N₂ Ṡ      | Ṡ N₂ D₁ M₁ P M₁ G₃ R₁ S                                  |
+| _Vasanta Mukhāri_                                                                                                                    | S M₁ G₃ M₁ P D₁ N₂ Ṡ    | Ṡ N₂ D₁ P M₁ G₃ R₁ S                                     |
+| _Vijayollāsini_                                                                                                                      | S R₁ G₃ M₁ P M₁ D₁ N₂ Ṡ | Ṡ N₂ D₁ P M₁ G₃ R₁ S                                     |

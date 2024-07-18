@@ -1,13 +1,7 @@
-|        |Ragas derived from Gānamoorti|        |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Gānasāmavarāli             |Aarohanam |R1|M1|P |D1|D1|N3|S |  |  |
-|        |                           |Avarohanam|S |N3|D1|P |M1|G1|R1|S |  |
-|2       |Bhinnapanchamam            |Aarohanam |S |R1|G1|M1|P |D1|N3|S |  |
-|        |                           |Avarohanam|S |N3|D1|P |M1|R1|S |  |  |
-|3       |Nādharanjani               |Aarohanam |S |R1|M1|D1|N3|S |  |  |  |
-|        |                           |Avarohanam|S |N3|D1|M1|G1|R1|S |  |  |
-|4       |Poorvavarāli     		     |Aarohanam |S |R1|M1|P |D1|S |  |  |  |
-|        |                           |Avarohanam|S |N3|D1|M1|G1|R1|S |  |  |
-|5       |Sāmavarāli				 |Aarohanam |S |R1|M1|P |D1|N3|S |  |  |
-|        |                           |Avarohanam|S |N3|D1|P |M1|G1|R1|G1|S |
+| **3 [Gānamūrti](https://en.wikipedia.org/wiki/Ganamurti "Ganamurti")** | S R₁ G₁ M₁ P D₁ N₃ Ṡ | Ṡ N₃ D₁ P M₁ G₁ R₁ S    |
+| ---------------------------------------------------------------------- | -------------------- | ----------------------- |
+| **Gānasāmavarāli**                                                     | S R₁ M₁ P D₁ N₃ Ṡ    | Ṡ N₃ D₁ P M₁ G₁ R₁ S    |
+| _Bhinnapanchamam_                                                      | S R₁ G₁ M₁ P D₁ N₃ Ṡ | Ṡ N₃ D₁ P M₁ G₁ R₁ S    |
+| _Nādharanjani_                                                         | S R₁ M₁ D₁ N₃ Ṡ      | Ṡ N₃ D₁ M₁ G₁ R₁ S      |
+| _Poorvavarāli_                                                         | S R₁ M₁ P D₁ Ṡ       | Ṡ N₃ D₁ P M₁ G₁ R₁ S    |
+| _Sāmavarāli_                                                           | S R₁ M₁ P D₁ N₃ Ṡ    | Ṡ N₃ D₁ P M₁ G₁ R₁ G₁ S |

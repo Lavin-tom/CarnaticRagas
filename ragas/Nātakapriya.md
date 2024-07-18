@@ -1,29 +1,14 @@
-|        |Ragas derived from Nātakapriya|       |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Natābharanam               |Aarohanam |S |R1|G2|M1|P |D2|N2|S |  | 
-|        |                           |Avarohanam|S |N2|D2|P |M1|G2|R1|S |  |
-|2       |Alankārapriya              |Aarohanam |S |R1|G2|M1|D2|N2|S |  |  |
-|        |                           |Avarohanam|S |N2|D2|M1|G2|R1|S |  |  | 
-|3       |Bhāgyashabari              |Aarohanam |S |R1|G2|M1|D2|N2|S |  |  |
-|        |                           |Avarohanam|S |N2|D2|M1|G2|R1|S |  |  | 
-|4       |Deeparamu     		     |Aarohanam |S |R1|G2|M1|P |D2|N2|S |  | 
-|        |                           |Avarohanam|S |N2|D2|N2|P |M1|G2|R1|S | 
-|5       |Gunāvati                   |Aarohanam |S |R1|M1|P |D2|S |  |  |  |
-|        |                           |Avarohanam|S |D2|P |M1|R1|S |  |  |  |
-|6       |Hindoladeshikam            |Aarohanam |S |M1|R1|G2|M1|P |D2|N2|S | 
-|        |                           |Avarohanam|S |P |N2|D2|M1|G2|R1|S |  |
-|7       |Kanakadri                  |Aarohanam |S |R1|G2|P |D2|S |  |  |  | 
-|        |                           |Avarohanam|S |N2|D2|P |M1|G2|R1|S |  | 
-|8       |Mātangakāmini     		 |Aarohanam |S |G2|M1|P |D1|N2|S |  |  |
-|        |                           |Avarohanam|S |N2|D1|P |M1|G2|S |  |  | 
-|9       |Natābharanam               |Aarohanam |S |R1|M1|P |D2|S |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|R1|S |  |  |
-|10      |Niranjana                  |Aarohanam |S |R1|G2|M1|P |D2|S |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|G2|R1|S |  |
-|11      |Shānthabhāshini            |Aarohanam |S |R1|G2|M1|P |D2|S |  |  |
-|        |                           |Avarohanam|S |N2|D2|P |M1|S |  |  |  |
-|12      |Shivashakti     		     |Aarohanam |S |G2|M1|D2|S |  |  |  |  |
-|        |                           |Avarohanam|S |N2|D2|M1|G2|S |  |  |  |
-|13      |Sindhubhairavi             |Aarohanam |S |R2|G2|M1|G2|P |D1|N2|S |
-|        |                           |Avarohanam|N2|D1|P |M1|G2|R1|S |N2|S |
+| **10 [Nātakapriyā](https://en.wikipedia.org/wiki/Natakapriya "Natakapriya")** | S R₁ G₂ M₁ P D₂ N₂ Ṡ    | Ṡ N₂ D₂ P M₁ G₂ R₁ S    |
+| ----------------------------------------------------------------------------- | ----------------------- | ----------------------- |
+| **Natābharanam**                                                              | S R₁ G₂ M₁ P D₂ N₂ Ṡ    | Ṡ N₂ D₂ P M₁ G₂ R₁ S    |
+| _Alankārapriya_                                                               | S R₁ G₂ M₁ D₂ N₂ Ṡ      | Ṡ N₂ D₂ M₁ G₂ R₁ S      |
+| _Bhāgyashabari_                                                               | S R₁ G₂ M₁ D₂ N₂ Ṡ      | Ṡ N₂ D₂ M₁ G₂ R₁ S      |
+| _Deeparamu_                                                                   | S R₁ G₂ M₁ P D₂ N₂ Ṡ    | Ṡ N₂ D₂ N₂ P M₁ G₂ R₁ S |
+| _Gunāvati_                                                                    | S R₁ M₁ P D₂ S          | S D₂ P M₁ R₁ S          |
+| _Hindoladeshikam_                                                             | S M₁ R₁ G₂ M₁ P D₂ N₂ Ṡ | Ṡ P N₂ D₂ M₁ G₂ R₁ S    |
+| _Kanakadri_                                                                   | S R₁ G₂ P D₂ Ṡ          | Ṡ N₂ D₂ P M₁ G₂ R₁ S    |
+| _Mātangakāmini_                                                               | S G₂ M₁ P D₁ N₂ Ṡ       | Ṡ N₂ D₁ P M₁ G₂ S       |
+| _Nātyadhārana_                                                                | S R₁ M₁ P D₂ Ṡ          | Ṡ N₂ D₂ P M₁ R₁ S       |
+| _Niranjana_                                                                   | S R₁ G₂ M₁ P D₂ Ṡ       | Ṡ N₂ D₂ P M₁ G₂ R₁ S    |
+| _Shānthabhāshini_                                                             | S R₁ G₂ M₁ P D₂ Ṡ       | Ṡ N₂ D₂ P M₁ S          |
+| _Shivashakti_                                                                 | S G₂ M₁ D₂ Ṡ            | Ṡ N₂ D₂ M₁ G₂ S         |

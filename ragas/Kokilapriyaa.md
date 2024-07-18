@@ -1,19 +1,11 @@
-|        |Ragas derived from Kokilapriyaa|      |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Kokilāravam                |Aarohanam |S |R1|M1|P |D2|N3|S |  |  |
-|        |                           |Avarohanam|S |N3|D2|P |M1|G2|R2|S |  |
-|2       |Chitramani                 |Aarohanam |S |R1|M1|P |D2|N3|S |  |  |
-|        |                           |Avarohanam|S |N3|D2|P |M1|G2|R1|S |  |  
-|3       |Jnānachintāmani            |Aarohanam |S |R1|M1|D2|N3|S |  |  |  |
-|        |                           |Avarohanam|S |N3|D2|P |M1|R1|S |  |  |
-|4       |Kowmāri     		         |Aarohanam |S |R1|G2|M1|P |D2|S |  |  |
-|        |                           |Avarohanam|S |N3|D2|P |M1|G2|R1|S |  |
-|5       |Shuddha Lalitha            |Aarohanam |S |P |M1|D2|N3|S |  |  |  |
-|        |                           |Avarohanam|S |N3|S |D2|P |M1|G2|R1|S |
-|6       |Vardhani                   |Aarohanam |S |G2|M1|P |M1|P |D2|N3|S | 
-|        |                           |Avarohanam|S |N3|D2|P |M1|G2|R1|S |  |
-|7       |Vasantamalli               |Aarohanam |S |G2|M1|P |N3|S |  |  |  |
-|        |                           |Avarohanam|S |D2|P |M1|G2|S |  |  |  |
-|8       |Vasantanārāyani     		 |Aarohanam |S |R1|G2|M1|P |S |  |  |  |
-|        |                           |Avarohanam|S |N3|D2|P |M1|G2|R1|S |  | 
+| **11 [Kokilapriyā](https://en.wikipedia.org/wiki/Kokilapriya "Kokilapriya")**                               | S R₁ G₂ M₁ P D₂ N₃ Ṡ   | Ṡ N₃ D₂ P M₁ G₂ R₁ S   |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------- |
+| **Kokilāravam**                                                                                             | S R₁ M₁ P D₂ N₃ Ṡ      | Ṡ N₃ D₂ P M₁ G₂ R₂ S   |
+| _[Bhimsen](https://en.wikipedia.org/wiki/Bhimsen_(raga) "Bhimsen (raga)") (Raga created by Mahesh Mahadev)_ | S G₂ M₁ P N₃ Ṡ         | Ṡ N₃ D₂ P M₁ G₂ R₁ S   |
+| _Chitramani_                                                                                                | S R₁ M₁ P D₂ N₃ Ṡ      | Ṡ N₃ D₂ P M₁ G₂ R₁ S   |
+| _Jnānachintāmani_                                                                                           | S R₁ M₁ D₂ N₃ Ṡ        | Ṡ N₃ D₂ P M₁ R₁ S      |
+| _Kowmāri_                                                                                                   | S R₁ G₂ M₁ P D₂ Ṡ      | Ṡ N₃ D₂ P M₁ G₂ R₁ S   |
+| _Shuddha Lalitha_                                                                                           | S P M₁ D₂ N₃ Ṡ         | Ṡ N₃ S D₂ P M₁ G₂ R₁ S |
+| _Vardhani_                                                                                                  | S G₂ M₁ P M₁ P D₂ N₃ Ṡ | Ṡ N₃ D₂ P M₁ G₂ R₁ S   |
+| _Vasantamalli_                                                                                              | S G₂ M₁ P N₃ Ṡ         | Ṡ D₂ P M₁ G₂ S         |
+| _Vasantanārāyani_                                                                                           | S R₁ G₂ M₁ P Ṡ         | Ṡ N₃ D₂ P M₁ G₂ R₁ S   |

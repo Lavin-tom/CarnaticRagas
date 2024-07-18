@@ -1,9 +1,5 @@
-|        |Ragas derived from Mānavati|          |  |  |  |  |  |  |  |  |  |
-|--------|---------------------------|----------|--|--|--|--|--|--|--|--|--|
-|Raga No.|Raga                       |          |  |  |  |  |  |  |  |  |  |
-|1       |Manoranjani                |Aarohanam |S |R1|M1|P |D2|N3|S |  |  |  
-|        |                           |Avarohanam|S |N3|D2|P |M1|G1|R1|S |  |
-|2       |Ghanashyāmalā              |Aarohanam |S |G1|M1|P |D2|S |  |  |  |
-|        |                           |Avarohanam|S |D2|N3|P |M1|G1|R1|S |  |  
-|3       |Kunjari                    |Aarohanam |S |R1|M1|P |D2|P |S |  |  |
-|        |                           |Avarohanam|S |N3|D2|P |M1|G1|R1|S |  |
+| **5 [Mānavati](https://en.wikipedia.org/wiki/Manavati "Manavati")** | S R₁ G₁ M₁ P D₂ N₃ Ṡ | Ṡ N₃ D₂ P M₁ G₁ R₁ S |
+| ------------------------------------------------------------------- | -------------------- | -------------------- |
+| **Manoranjani**                                                     | S R₁ M₁ P D₂ N₃ Ṡ    | Ṡ N₃ D₂ P M₁ G₁ R₁ S |
+| _Ghanashyāmalā_                                                     | S G₁ M₁ P D₂ Ṡ       | Ṡ D₂ N₃ P M₁ G₁ R₁ S |
+| _Kunjari_                                                           | S R₁ M₁ P D₂ P Ṡ     | Ṡ N₃ D₂ P M₁ G₁ R₁ S |
