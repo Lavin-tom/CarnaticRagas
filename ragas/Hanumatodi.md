@@ -23,7 +23,5 @@
 | _Shuddha Seemantini_                                                                              | S R₁ G₂ M₁ P D₁ Ṡ                                   | Ṡ D₁ P M₁ G₂ R₁ S                                         |
 | _Shuddha Todi_                                                                                    | S R₁ G₂ M₁ D₁ N₂ Ṡ                                  | Ṡ N₂ D₁ M₁ G₂ R₁ S                                        |
 | _[Sindhubhairavi](https://en.wikipedia.org/wiki/Sindhu_Bhairavi_(raga) "Sindhu Bhairavi (raga)")_ | S R₂ G₂ M₁ G₂ P D₁ N₂ S                             | N₂ D₁ P M₁ G₂ R₁ S N₂ S (_Anya swara\*_ : R₂ G₃ M₂ D₂ N₃) |
-| _Sri Mati_                                                                                        | S G₂ R₁ G₂ M₁ P D₁ P D₂\* N₂ Ṡ
-
-(Anya swara\* : D₂) | Ṡ N₂ D₁ P M₁ P M₁ G₂ R₁ S                                 |
+| _Sri Mati_                                                                                        | S G₂ R₁ G₂ M₁ P D₁ P D₂\* N₂ Ṡ  (Anya swara\* : D₂) | Ṡ N₂ D₁ P M₁ P M₁ G₂ R₁ S                                 |
 | _Swarnamalli_                                                                                     | S G₂ M₁ P D₁ N₁ Ṡ                                   | Ṡ N₂ D₁ P M₁ G₂ R₁ S                                      |
