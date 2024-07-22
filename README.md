@@ -91,28 +91,28 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|          |  |   |   |   |   |   |   |  |
 |19      |[Jhankāradhvani](ragas/Jhankāradhvan.md)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G2 |R2 |S |
-|20      |[Natabhairavi](ragas/Natabhairavi) |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N2 |S |
+|20      |[Natabhairavi](ragas/Natabhairavi.md) |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G2 |R2 |S |
-|21      |[Keeravāni](ragas/Keeravāni)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N3 |S |
+|21      |[Keeravāni](ragas/Keeravāni.md)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G2 |R2 |S |
-|22      |[Kharaharapriya](ragas/Kharaharapriya)             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N2 |S |
+|22      |[Kharaharapriya](ragas/Kharaharapriya.md)             |Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G2 |R2 |S |
-|23      |[Gowri Manohari](ragas/Gowri_Manohari)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
+|23      |[Gowri Manohari](ragas/Gowri_Manohari.md)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G2 |R2 |S |
-|24      |[Varunapriyaa](ragas/Varunapriyaa)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
+|24      |[Varunapriyaa](ragas/Varunapriyaa.md)|Veda  |Aarohanam |S |R2 |G2 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  |
-|25      |[Māraranjani](ragas/Māraranjani)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
+|25      |[Māraranjani](ragas/Māraranjani.md)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M1 |G3 |R2 |S |
-|26      |[Chārukeshi](ragas/Chārukeshi)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N2 |S |
+|26      |[Chārukeshi](ragas/Chārukeshi.md)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M1 |G3 |R2 |S |
-|27      |[Sarasāngi](ragas/Sarasāngi)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N3 |S |
+|27      |[Sarasāngi](ragas/Sarasāngi.md)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R2 |S |
-|28      |[Harikāmbhoji](ragas/Harikāmbhoji)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N2 |S |
+|28      |[Harikāmbhoji](ragas/Harikāmbhoji.md)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G3 |R2 |S |
-|29      |[Dheera Shankarābharanam](ragas/Dheera_Shankarābharanam)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N3 |S |
+|29      |[Dheera Shankarābharanam](ragas/Dheera_Shankarābharanam.md)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G3 |R2 |S |
-|30      |[Nāganandhini](ragas/Nāganandhini)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D3 |N3 |S |
+|30      |[Nāganandhini](ragas/Nāganandhini.md)|Baana |Aarohanam |S |R2 |G3 |M1 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |31      |Yāgapriyā                  |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D1 |N1 |S |

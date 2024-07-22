@@ -1,0 +1,9 @@
+| **26 [Chārukesi](https://en.wikipedia.org/wiki/Charukesi "Charukesi")** | S R₂ G₃ M₁ P D₁ N₂ Ṡ                              | Ṡ N₂ D₁ P M₁ G₃ R₂ S                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **Tarangini**                                                           | S R₂ G₃ P D₁ N₂ D₁ S<br>S R₂ G₃ P D₁ N₂ D₁ P D₁ S | S D₁ P M₁ G₃ R₂ S<br>S D₁ P G₃ R₂ S G₃ M₁ R₂ G₃ S |
+| _Chirswaroopi_                                                          | S R₂ G₃ M₁ P D₁ N₂ Ṡ                              | Ṡ N₂ D₁ P M₁ G₃ R₂ S                              |
+| _Māravi_                                                                | S G₃ M₁ P N₂ Ṡ                                    | Ṡ N₂ D₁ P M₁ G₃ R₂ S                              |
+| _Poorvadhanyāsi_                                                        | S M₁ G₃ M₁ N₂ Ṡ                                   | Ṡ N₂ D₁ P M₁ G₃ R₂ S                              |
+| _Shiva Manohari_                                                        | S M₁ G₃ M₁ P D₁ N₂ Ṡ                              | Ṡ N₂ D₁ P M₁ G₃ R₂ S                              |
+| _Shukrajyothi_                                                          | S R₂ G₃ M₁ P D₁ N₂ Ṡ                              | Ṡ N₂ P D₁ M₁ G₃ R₂ S                              |
+| _Ushābharanam_                                                          | S G₃ M₁ D₁ P M₁ D₁ N₂ Ṡ                           | Ṡ N₂ D₁ P M₁ G₃ R₂ G₃ M₁ R₂ S                     |
