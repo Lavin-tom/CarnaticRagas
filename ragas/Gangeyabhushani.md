@@ -1,0 +1,3 @@
+| **33 [Gāngeyabhuśani](https://en.wikipedia.org/wiki/Gangeyabhushani "Gangeyabhushani")** | S R₃ G₃ M₁ P D₁ N₃ Ṡ | Ṡ N₃ D₁ P M₁ G₃ R₃ S       |
+| ---------------------------------------------------------------------------------------- | -------------------- | -------------------------- |
+| **Gangātarangini**                                                                       | S R₃ G₃ M₁ P D₁ N₃ Ṡ | Ṡ N₃ D₁ P M₁ M₁ G₃ M₁ R₃ S |
