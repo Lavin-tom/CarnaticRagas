@@ -123,7 +123,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M1 |G3 |R3 |S |
 |34      |[Vāgadeeshwari](ragas/Vāgadeeshwari.md)|Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M1 |G3 |R3 |S |
-|35      |Shulini                    |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N3 |S |
+|35      |[Shulini](ragas/Shulini.md)|Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M1 |G3 |R3 |S |
 |36      |Chalanāttai                |Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R3 |S |
