@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc
@@ -28,3 +30,5 @@ jobs:
           git add index.html
           git commit -m "Automatically convert README.md to index.html"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
