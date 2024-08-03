@@ -128,7 +128,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |36      |[Chalanāttai](ragas/Chalanāttai.md)|Rutu  |Aarohanam |S |R2 |G3 |M1 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M1 |G3 |R3 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
-|37      |Sālagam                    |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N1 |S |
+|37      |[Sālagam](ragas/Sālagam.md)|Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G1 |R1 |S | 
 |38      |Jalārnavam                 |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G1 |R1 |S |
