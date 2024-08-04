@@ -1,0 +1,30 @@
+name: Update HTML with Markdown
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Convert README.md to HTML
+        run: |
+          pandoc -s README.md -o content.html
+
+      - name: Update index.html with Markdown content
+        run: |
+          # Inject content from content.html into index.html
+          sed -i '/<!-- Injected Markdown Content -->/r content.html' index.html
+          sed -i '/<!-- Injected Markdown Content -->/d' index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.GH_PAT }}
+          publish_dir: ./ 
