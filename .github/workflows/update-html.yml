@@ -22,14 +22,25 @@ jobs:
         run: |
           pandoc -s README.md -o content.html
 
+      - name: Display content.html
+        run: |
+          cat content.html
+
+      - name: Display index.html before injection
+        run: |
+          cat index.html
+
       - name: Update index.html with Markdown content
         run: |
-          # Inject content from content.html into index.html
           sed -i '/<!-- Injected Markdown Content -->/r content.html' index.html
           sed -i '/<!-- Injected Markdown Content -->/d' index.html
+
+      - name: Display index.html after injection
+        run: |
+          cat index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GH_PAT}}
           publish_dir: ./
