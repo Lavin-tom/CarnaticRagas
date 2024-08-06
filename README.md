@@ -132,7 +132,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G1 |R1 |S | 
 |38      |[Jalārnavam](ragas/Jalārnavam.md) |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G1 |R1 |S |
-|39      |Jhālavarāli                |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N3 |S |
+|39      |[Jhālavarāli](ragas/Jhālavarāli.md)|Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G1 |R1 |S |
 |40      |Navaneetham                |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G1 |R1 |S | 
