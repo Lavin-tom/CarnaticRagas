@@ -18,29 +18,40 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc
 
-      - name: Convert README.md to HTML
+      - name: Convert Markdown files to HTML
         run: |
-          pandoc -s README.md -o content.html
+          mkdir -p ragas/html
+          for file in ragas/*.md; do
+            # Extract filename without extension
+            filename=$(basename "$file" .md)
+            # Convert each Markdown file to HTML and save it in the 'ragas/html' directory
+            pandoc -s "$file" -o "ragas/html/${filename}.html"
+          done
 
-      - name: Display content.html
+      - name: Display converted HTML files
         run: |
-          cat content.html
+          ls ragas/html
+          cat ragas/html/*.html
 
-      - name: Display index.html before injection
+      - name: Update index.html with links to HTML files
         run: |
-          cat index.html
+          # Generate links for each HTML file
+          echo '<!-- Links to Markdown Content -->' > links.html
+          for file in ragas/html/*.html; do
+            filename=$(basename "$file")
+            # Create a link for each HTML file
+            echo "<a href=\"ragas/html/${filename}\">${filename}</a><br>" >> links.html
+          done
+          # Inject links into index.html
+          sed -i '/<!-- Links to Markdown Content -->/r links.html' index.html
+          sed -i '/<!-- Links to Markdown Content -->/d' index.html
 
-      - name: Update index.html with Markdown content
-        run: |
-          sed -i '/<!-- Injected Markdown Content -->/r content.html' index.html
-          sed -i '/<!-- Injected Markdown Content -->/d' index.html
-
-      - name: Display index.html after injection
+      - name: Display index.html after update
         run: |
           cat index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT}}
+          github_token: ${{ secrets.GH_PAT }}
           publish_dir: ./
