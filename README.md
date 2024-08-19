@@ -154,7 +154,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |48      |[Bhavapriya](ragas/Bhavapriya.md)                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
-|49      |Dhavalāmbari               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N1 |S |
+|49      |[Dhavalāmbari](Dhavalāmbari.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R1 |S | 
 |50      |Nāmanārāyani               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R1 |S |
