@@ -156,7 +156,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |49      |[Dhavalāmbari](Dhavalāmbari.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R1 |S | 
-|50      |Nāmanārāyani               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N2 |S |
+|50      |[Nāmanārāyani](Nāmanārāyani.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R1 |S |
 |51      |Panthuvarāli (Kāmavardhani)|Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G1 |R1 |S |
