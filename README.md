@@ -160,7 +160,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R1 |S |
 |51      |[Panthuvarāli (Kāmavardhani)](ragas/Panthuvarāli_(Kāmavardhani).md)|Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G1 |R1 |S |
-|52      |Rāmapriyā                  |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N2 |S |
+|52      |[Rāmapriyā](ragas/Rāmapriyā.md)                  |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R1 |S |
 |53      |Gamanashrama               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R1 |S |
