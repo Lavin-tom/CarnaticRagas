@@ -162,7 +162,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G1 |R1 |S |
 |52      |[Rāmapriyā](ragas/Rāmapriyā.md)                  |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R1 |S |
-|53      |Gamanashrama               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N3 |S |
+|53      |[Gamanashrama](ragas/Gamanashrama.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R1 |S |
 |54      |Vishvāmbhari               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R1 |S |
