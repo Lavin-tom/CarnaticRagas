@@ -164,7 +164,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R1 |S |
 |53      |[Gamanashrama](ragas/Gamanashrama.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R1 |S |
-|54      |Vishvāmbhari               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D3 |N3 |S |
+|54      |[Vishvāmbhari](ragas/Vishvāmbhari.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |55      |Shyāmalāngi                |Disi  |Aarohanam |S |R2 |G2 |M2 |P  |D1 |N1 |S |
