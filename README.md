@@ -171,7 +171,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G2 |R2 |S |
 |56      |[Shanmukhapriyaa](ragas/Shanmukhapriyaa.md)            |Disi  |Aarohanam |S |R2 |G2 |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G2 |R2 |S |
-|57      | Simhendramadhyamam (Sumadhyuti)|Disi|Aarohanam|S |R2 |G2 |M2 |P  |D1 |N3  |S |
+|57      | [Simhendramadhyamam (Sumadhyuti)](ragas/Simhendramadhyamam)|Disi|Aarohanam|S |R2 |G2 |M2 |P  |D1 |N3  |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G2 |R2 |S | 
 |58      | Hemavathi                 |Disi  |Aarohanam |S |R2 |G2 |M2 |P |D2 |N2  |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G2 |R2 |S |
