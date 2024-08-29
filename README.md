@@ -175,7 +175,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G2 |R2 |S | 
 |58      | [Hemavathi](ragas/Hemavathi.md)                 |Disi  |Aarohanam |S |R2 |G2 |M2 |P |D2 |N2  |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G2 |R2 |S |
-|59      | Dharmavathi               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D2 |N3 |S |
+|59      | [Dharmavathi](ragas/Dharmavathi.md)               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G2 |R2 |S |
 |60      | Neethimathi               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R2 |S |
