@@ -180,7 +180,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |60      | [Neethimathi](ragas/Neethimathi.md)               |Disi  |Aarohanam |S  |R2  |G2  |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R2 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
-|61      | Kānthāmani                |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N1 |S |
+|61      | [Kānthāmani](ragas/Kānthāmani.md)                |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R2 |S | 
 |62      | Rishabhapriya             |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R2 |S | 
