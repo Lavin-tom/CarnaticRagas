@@ -184,7 +184,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R2 |S | 
 |62      | [Rishabhapriya](ragas/Rishabhapriya.md)             |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R2 |S | 
-|63      | Lathāngi                  |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N3 |S |
+|63      | [Lathāngi](ragas/Lathangi.md)                  |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G3 |R2 |S |
 |64      | Vāchaspathi               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R2 |S |
