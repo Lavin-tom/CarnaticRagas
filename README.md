@@ -190,7 +190,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R2 |S |
 |65      | [Mechakalyāni](ragas/Mechakalyāni.md)              |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R2 |S | 
-|66      | Chitrāmbari               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D3 |N3 |S |
+|66      | [Chitrāmbari](ragas/Chitrāmbari.md)               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R2 |S | 
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |67      | Sucharitra                |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N1 |S |
