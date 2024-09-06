@@ -193,7 +193,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |66      | [Chitrāmbari](ragas/Chitrāmbari.md)               |Rudra |Aarohanam |S  |R2  |G3  |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G3 |R2 |S | 
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
-|67      | Sucharitra                |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N1 |S |
+|67      | [Sucharitra](ragas/Sucharitra.md)                |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R3 |S |
 |68      | Jyothiswaroopini          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R2 |S |
