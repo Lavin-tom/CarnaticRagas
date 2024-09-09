@@ -197,7 +197,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R3 |S |
 |68      | [Jyothiswaroopini](ragas/Jyothiswaroopini.md)          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R2 |S |
-|69      | Dhātuvardhani             |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N3 |S |
+|69      | [Dhātuvardhani](ragas/Dhātuvardhani.md)        |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G3 |R3 |S |
 |70      | Nāsikabhooshhani          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R3 |S |
