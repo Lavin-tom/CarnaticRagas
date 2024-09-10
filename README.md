@@ -199,7 +199,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G3 |R2 |S |
 |69      | [Dhātuvardhani](ragas/Dhātuvardhani.md)        |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D1 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G3 |R3 |S |
-|70      | Nāsikabhooshhani          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N2 |S |
+|70      | [Nāsikabhooshhani](ragas/Nāsikabhooshhani.md)          |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G3 |R3 |S |
 |71      | Kosalam                   |Aaditya|Aarohanam |S  |R3  |G3  |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G3 |R3 |S | 
