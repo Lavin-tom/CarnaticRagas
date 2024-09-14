@@ -46,7 +46,6 @@ Contributions to this repository are highly encouraged and appreciated. Whether 
 Your feedback and suggestions for improving this repository are valuable. Feel free to open an issue or submit a pull request with your ideas and contributions.
 
 
-
 ## Melakarta Ragas
 |Raga No.|Raga                       |Chakra|		   |  |   |   |   |   |    |  |  |
 |--------|---------------------------|------|----------|--|---|-- |-- |---|----|- |--|
