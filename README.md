@@ -1,5 +1,4 @@
 # Carnatic Ragas
-
 This repository serves as a comprehensive resource for understanding Carnatic Ragas, a foundational aspect of Indian classical music. Carnatic music is deeply rooted in tradition and culture, and ragas form the backbone of its melodic structure.
 
 ## What are Carnatic Ragas?
