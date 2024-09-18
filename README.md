@@ -134,21 +134,21 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G1 |R1 |S | 
 |41      |[Pāvani](ragas/Pāvani.md)                     |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G1 |R1 |S |
-|42      |[Raghupriyaa](ragas/Raghupriyaa)                |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D3 |N3 |S |
+|42      |[Raghupriyaa](ragas/Raghupriyaa.md)                |Rushi |Aarohanam |S |R1 |G1 |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G1 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
-|43      |[Shadvidhamārgini](ragas/Shadvidhamārgini)           |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N2 |S |
+|43      |[Ghavāmbhodi](ragas/Ghavāmbhodi.md)           |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D2 |P  |M2 |G2 |R1 |S | 
-|44      |[Shubhapanthuvarāli](ragas/Shubhapanthuvarāli)         |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N3 |S |
-|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G2 |R1 |S | 
-|45      |[Ghavāmbhodi](ragas/Ghavāmbhodi.md)               |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N1 |S |
-|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G2 |R1 |S |
-|46      |[Suvarnāngi](ragas/Suvarnāngi.md)                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N3 |S |
-|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G2 |R1 |S |
-|47      |[Divyamani](ragas/Divyamani.md)                  |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D3 |N3 |S |
-|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R1 |S |
-|48      |[Bhavapriya](ragas/Bhavapriya.md)                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N2 |S |
+|44      |[Bhavapriya](ragas/Bhavapriya.md)                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N2 |S |
 |        |                           |		|Avarohanam|S |N2 |D1 |P  |M2 |G2 |R1 |S |
+|45      |[Śubhapantuvarāḷi](ragas/Śubhapantuvarāḷi.md)         |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N3 |S |
+|        |                           |		|Avarohanam|S |N3 |D1 |P  |M2 |G2 |R1 |S | 
+|46      |[Śadvidamārgini](ragas/Śadvidamārgini.md)               |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D1 |N1 |S |
+|        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G2 |R1 |S |
+|47      |[Suvarnāngi](ragas/Suvarnāngi.md)                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N3 |S |
+|        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G2 |R1 |S |
+|48      |[Divyamani](ragas/Divyamani.md)                  |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D3 |N3 |S |
+|        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |49      |[Dhavalāmbari](ragas/Dhavalāmbari.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N1 |S |
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G3 |R1 |S | 
