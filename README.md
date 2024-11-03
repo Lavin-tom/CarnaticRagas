@@ -147,7 +147,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 |        |                           |		|Avarohanam|S |N1 |D1 |P  |M2 |G2 |R1 |S |
 |47      |[Suvarnāngi](ragas/Suvarnāngi.md)                 |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D2 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D2 |P  |M2 |G2 |R1 |S |
-|48      |[Divyamani](ragas/Divyamani.md)                  |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D3 |N3 |S |
+|48      |[Divyamaṇi](ragas/Divyamaṇi.md)                  |Vasu  |Aarohanam |S |R1 |G2 |M2 |P  |D3 |N3 |S |
 |        |                           |		|Avarohanam|S |N3 |D3 |P  |M2 |G2 |R1 |S |
 |        |                           |		|          |  |   |   |   |   |   |   |  | 
 |49      |[Dhavalāmbari](ragas/Dhavalāmbari.md)               |Brahma|Aarohanam |S |R1 |G3 |M2 |P  |D1 |N1 |S |
