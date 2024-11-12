@@ -1,3 +1,5 @@
+![Vachaspati Scale](https://upload.wikimedia.org/wikipedia/commons/f/f1/Vachaspati_scale.svg)
+
 | **64 [Vāchaspati](https://en.wikipedia.org/wiki/Vachaspati_(ragam) "Vachaspati (ragam)")** | S R₂ G₃ M₂ P D₂ N₂ Ṡ  | Ṡ N₂ D₂ P M₂ G₃ R₂ S      |
 | ------------------------------------------------------------------------------------------ | --------------------- | ------------------------- |
 | **Bhooshāvathi**                                                                           | S R₂ G₃ M₂ P D₂ N₂ Ṡ  | Ṡ N₂ D₂ P M₂ G₃ R₂ S      |
