@@ -46,7 +46,7 @@ Your feedback and suggestions for improving this repository are valuable. Feel f
 ## Melakarta Ragas
 | Raga.No                                          | Raga                                                                                 | Melakartha      | Chakra  | Aarohanam              | Avarohanam           |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------ | --------------- | ------- | ---------------------- | -------------------- |
-| [1](ragas/1_Kanakāngi.md)                        | [Kanakāngi](ragas/1_Kanakāngi.md)                                                    | Suddha Madhyama | Indu    | S R₁ G₁ M₁ P  D₁ N₁ Ṡ  | Ṡ N₁ D₁ P M₁ G₁ R₁ S |
+| [1](https://en.wikipedia.org/wiki/Kanakangi?wprov=sfla1)                        | [Kanakāngi](ragas/1_Kanakāngi.md)                                                    | Suddha Madhyama | Indu    | S R₁ G₁ M₁ P  D₁ N₁ Ṡ  | Ṡ N₁ D₁ P M₁ G₁ R₁ S |
 | [2](ragas/2_Ratnāngi.md)                         | [Ratnāngi](ragas/2_Ratnāngi.md)                                                      | Suddha Madhyama | Indu    | S R₁ G₁ M₁ P  D₁ N₂ Ṡ  | Ṡ N₂ D₁ P M₁ G₁ R₁ S |
 | [3](ragas/3_Gānamūrti.md)                        | [Gānamūrti](ragas/3_Gānamūrti.md)                                                    | Suddha Madhyama | Indu    | S R₁ G₁ M₁ P  D₁ N₃ Ṡ  | Ṡ N₃ D₁ P M₁ G₁ R₁ S |
 | [4](ragas/4_Vanaspati.md)                        | [Vanaspati](ragas/4_Vanaspati.md)                                                    | Suddha Madhyama | Indu    | S R₁ G₁ M₁ P  D₂ N₁ Ṡ  | Ṡ N₂ D₂ P M₁ G₁ R₁ S |
