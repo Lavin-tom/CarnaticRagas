@@ -1,3 +1,4 @@
+![Kanakangi](https://upload.wikimedia.org/wikipedia/commons/6/67/Kanakangi_scale.svg)
 | **1 [Kanakāngi (Janaka raga)](https://en.wikipedia.org/wiki/Kanakangi "Kanakangi")**                                                                                             | S R₁ G₁ M₁ P D₁ N₁ Ṡ   | Ṡ N₁ D₁ P M₁ G₁ R₁ S |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- |
 | **[Kanakāmbari](https://en.wikipedia.org/wiki/Kanakambari "Kanakambari")**                                                                                                       | S R₁ M₁ P D₁ Ṡ         | Ṡ N₁ D₁ P M₁ G₁ R₁ S |
